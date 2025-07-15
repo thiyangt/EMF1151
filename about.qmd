@@ -1,0 +1,32 @@
+---
+title: "Pre-lecture Work"
+---
+
+R is an open-source software that we use for statistical computing, data analysis, and visualization. On Thursday, 17 July 2025, we will explore key statistical, data analysis, and data science skills that resource managers should be aware of.
+
+Please complete the following tasks before attending the lecture:
+
+1. Download and install R and RStudio
+
+    - Follow the tutorial [here](https://r4fun.netlify.app/blog/topic1/) for guidelines.
+
+
+2. Install RTools (Windows Only)
+
+    - Go to: https://cran.r-project.org/bin/windows/Rtools/
+
+    - Download RTools version 4.5
+
+    - Once downloaded, double-click the file to install
+    
+3. Bring Your Laptop
+
+    - Please bring your laptop to the lecture if you have one.
+
+    - If you don’t have a laptop, don’t worry — you can still follow along.
+
+## Need help:
+
+If you encounter any installation issues, feel free to contact:
+
+📧 ttalagala@sjp.ac.lk

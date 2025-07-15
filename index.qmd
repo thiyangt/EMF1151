@@ -1,0 +1,9 @@
+---
+title: "EMF 115 1.0 Key Skills for Resource Managers (Statistics, Data Science and Statistical Programming)"
+---
+
+This session, conducted under the unit EMF 115 1.0, is designed to equip future resource managers with essential skills in statistics, data science, and statistical programming.
+
+Through hands-on learning with R, students will develop the ability to collect, manage, analyze, and visualize data relevant to environmental and resource management contexts.
+
+Students are introduced to practical data science workflows, including data wrangling, exploratory data analysis, visualization, and introduction to statistics and machine learning models, all contextualized within environmental and forestry applications.
