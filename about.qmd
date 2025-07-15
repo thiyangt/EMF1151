@@ -13,7 +13,7 @@ Please complete the following tasks before attending the lecture:
 
 2. Install RTools (Windows Only)
 
-    - Go to: https://cran.r-project.org/bin/windows/Rtools/
+    - Go to: [https://cran.r-project.org/bin/windows/Rtools/](https://cran.r-project.org/bin/windows/Rtools/)
 
     - Download RTools version 4.5
 
