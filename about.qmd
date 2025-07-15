@@ -1,5 +1,5 @@
 ---
-title: "Pre-lecture Work"
+title: "Pre-lecture Work: Tasks to Complete Before the Lecture"
 ---
 
 R is an open-source software that we use for statistical computing, data analysis, and visualization. On Thursday, 17 July 2025, we will explore key statistical, data analysis, and data science skills that resource managers should be aware of.
