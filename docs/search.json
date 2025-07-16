@@ -19,5 +19,82 @@
     "title": "Pre-lecture Work: Tasks to Complete Before the Lecture",
     "section": "Need help:",
     "text": "Need help:\nIf you encounter any installation issues, feel free to contact:\n📧 ttalagala@sjp.ac.lk"
+  },
+  {
+    "objectID": "week1/index.html#learning-objective",
+    "href": "week1/index.html#learning-objective",
+    "title": "STA 1132 Descriptive Statistics",
+    "section": "Learning Objective:",
+    "text": "Learning Objective:\nBy the end of this lecture, students will be able to:\n\nDefine statistics and explain its fundamental concepts.\nIdentify the various fields and contexts where statistics is used.\nExplain the importance and significance of statistics in decision-making and problem-solving processes."
+  },
+  {
+    "objectID": "week1/index.html#what-is-statistics",
+    "href": "week1/index.html#what-is-statistics",
+    "title": "STA 1132 Descriptive Statistics",
+    "section": "What is Statistics?",
+    "text": "What is Statistics?\n\nThe science of collecting, organizing, and analyzing data, and presenting and interpreting the results derived from that data to gain insights and make informed decisions."
+  },
+  {
+    "objectID": "week1/index.html#summary-measures",
+    "href": "week1/index.html#summary-measures",
+    "title": "STA 1132 Descriptive Statistics",
+    "section": "Summary measures",
+    "text": "Summary measures\n\n\n\n\n\n\nGender\nA\nB\nC\nWeight\n\n\n\n\n\nFemale:50\nMin. : 70.00\nMin. :0.700\nMin. :1.200\nMin. :1184\n\n\n\nMale :50\n1st Qu.: 99.20\n1st Qu.:2.575\n1st Qu.:2.900\n1st Qu.:3366\n\n\n\nNA\nMedian : 99.70\nMedian :3.300\nMedian :3.600\nMedian :4176\n\n\n\nNA\nMean : 99.14\nMean :3.359\nMean :3.591\nMean :4258\n\n\n\nNA\n3rd Qu.:100.50\n3rd Qu.:4.200\n3rd Qu.:4.225\n3rd Qu.:5031\n\n\n\nNA\nMax. :110.00\nMax. :5.900\nMax. :6.300\nMax. :7550"
+  },
+  {
+    "objectID": "week1/index.html#presenting-data-example",
+    "href": "week1/index.html#presenting-data-example",
+    "title": "STA 1132 Descriptive Statistics",
+    "section": "Presenting Data: Example",
+    "text": "Presenting Data: Example\nhttps://thiyangt.github.io/dsjobtraker_dashboard_mc/#top-software-and-skills"
+  },
+  {
+    "objectID": "week1/index.html#from-the-sales-data-the-company-gained-insights-into-customer-behavior-such-as-which-products-were-most-popular-in-different-regions.",
+    "href": "week1/index.html#from-the-sales-data-the-company-gained-insights-into-customer-behavior-such-as-which-products-were-most-popular-in-different-regions.",
+    "title": "STA 1132 Descriptive Statistics",
+    "section": "From the sales data, the company gained insights into customer behavior — such as which products were most popular in different regions.",
+    "text": "From the sales data, the company gained insights into customer behavior — such as which products were most popular in different regions."
+  },
+  {
+    "objectID": "week1/index.html#applications-of-statistics-in-different-fields",
+    "href": "week1/index.html#applications-of-statistics-in-different-fields",
+    "title": "STA 1132 Descriptive Statistics",
+    "section": "Applications of statistics in different fields",
+    "text": "Applications of statistics in different fields\n\n\n\n\n\n\n\n\n\nTerminology\nField\n\n\n\n\nEpidemiology\nThe study and analysis of the patterns, causes and effects of health and disease conditions\n\n\nAstrostatistics\nApplies statistical analysis to the understanding of astronomical data\n\n\nBiostatistics\nStudies biological phenomena\n\n\nDemography\nStatistical study of all populations\n\n\nSocial statistics\nStudy human behavior in a social environment\n\n\nChemometrics\nScience of extracting information from chemical systems by data-driven means"
+  },
+  {
+    "objectID": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.",
+    "href": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests.",
+    "text": "In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests."
+  },
+  {
+    "objectID": "week1/index.html#manager-a",
+    "href": "week1/index.html#manager-a",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "Manager A",
+    "text": "Manager A"
+  },
+  {
+    "objectID": "week1/index.html#manager-b",
+    "href": "week1/index.html#manager-b",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "Manager B",
+    "text": "Manager B"
+  },
+  {
+    "objectID": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.-1",
+    "href": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.-1",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests.",
+    "text": "In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests.\nTo assess the effectiveness of the Forest Conservation Tax introduced in 2022, the government consults two managers to understand its impact."
+  },
+  {
+    "objectID": "week1/index.html#to-assess-the-effectiveness-of-the-forest-conservation-tax-introduced-in-2022-the-government-consults-two-managers-to-understand-its-impact.",
+    "href": "week1/index.html#to-assess-the-effectiveness-of-the-forest-conservation-tax-introduced-in-2022-the-government-consults-two-managers-to-understand-its-impact.",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "To assess the effectiveness of the Forest Conservation Tax introduced in 2022, the government consults two managers to understand its impact.",
+    "text": "To assess the effectiveness of the Forest Conservation Tax introduced in 2022, the government consults two managers to understand its impact."
   }
 ]

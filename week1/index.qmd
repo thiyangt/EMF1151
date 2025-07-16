@@ -1,0 +1,142 @@
+---
+title: "Key Skills in <br/> Statistics, <br/> Data Science, <br/> and Statistical Programming  <br/> for Resource Managers"
+subtitle: "(Conducted under EMF 115 1.0 Key Skills for Resource Managers)"
+author: "Dr. Thiyanga S. Talagala "
+format:
+  revealjs:
+    css:
+        - "custom.css"
+    width: 1600
+    height: 900
+    margin: 0.1
+    theme: simple
+    transition: slide
+    background-transition: fade
+    slide-number: true
+    show-slide-number: all
+    title-slide-attributes: 
+      data-background-color: "#016450"
+      data-background-image: none
+---
+
+# Why are these skills important to learn?
+
+---
+## In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests.
+
+---
+
+## In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests.
+
+---
+
+## In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests.
+
+
+### <span style="color:#1f77b4"><b>To assess the effectiveness of the Forest Conservation Tax introduced in 2022, the government consults two managers to understand its impact</b></span>.
+
+---
+
+#
+
+:::: {.columns}
+
+::: {.column width="40%"}
+### Manager A
+
+I think deforestation has slowed. I haven’t seen as many trucks lately. It seems like the forest conservation tax policy is working.
+:::
+
+::: {.column width="5%"}
+
+:::
+
+
+::: {.column width="55%"}
+
+#
+
+:::
+
+::::
+
+
+
+#
+
+:::: {.columns}
+
+::: {.column width="40%"}
+### Manager A
+
+I think deforestation has slowed. I haven’t seen as many trucks lately. It seems like the forest conservation tax policy is working.
+:::
+
+::: {.column width="5%"}
+
+:::
+
+
+::: {.column width="55%"}
+### Manager B
+
+Using satellite images, we compared the extent of deforested  areas before and after the tax policy was introduced. The data show that these deforested areas have decreased.
+
+```{r}
+#| echo: false
+library(ggplot2)
+# Create example data
+deforest_data <- data.frame(
+  Year = factor(2020:2024),
+  Deforested_Area = c(110000, 130000, 140000, 70000, 20000)
+)
+
+# Plot bar chart
+ggplot(deforest_data, aes(x = Year, y = Deforested_Area)) +
+  geom_bar(stat = "identity", fill = "sienna3") +  # brown color for deforestation
+  labs(
+    title = "Reduction in Deforested Areas (2020–2024)",
+    x = "Year",
+    y = "Deforested Area (hectares)"
+  ) +
+ theme(
+    plot.title = element_text(size = 20, face = "bold"),
+    axis.title = element_text(size = 16),
+    axis.text = element_text(size = 14)
+  )
+
+
+```
+:::
+
+::::
+
+---
+
+#
+
+:::: {.columns}
+
+::: {.column width="40%"}
+### Manager A
+
+Just opinion, no data
+
+
+:::
+
+::: {.column width="20%"}
+
+:::
+
+
+::: {.column width="40%"}
+### Manager B
+
+Transparent and justifiable
+
+:::
+
+::::
+
+---
