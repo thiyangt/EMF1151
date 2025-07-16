@@ -241,35 +241,33 @@ Identify secondary data sources relevant to forestry and environmental sciences.
 
 -   Paid data repositories
 
----
-
+------------------------------------------------------------------------
 
 ```{r, echo=FALSE}
 knitr::include_graphics("form.png")
 ```
 
----
+------------------------------------------------------------------------
 
 ## Your turn
 
 Sri Lanka’s Ministry of Agriculture recently conducted a census of crop-damaging animals. The counts of toque macaques, monkeys, giant squirrels, and peacocks were recorded. The next step is to enter the collected data into an Excel spreadsheet for effective analysis.
 
-  Suppose you are responsible for creating an Excel sheet for data entry and establishing clear guidelines for data entry operators.
+Suppose you are responsible for creating an Excel sheet for data entry and establishing clear guidelines for data entry operators.
 
-  **Prepare a concise guideline document that includes the following:**
+**Prepare a concise guideline document that includes the following:**
 
-- A rough sketch of the Excel sheet layout
+-   A rough sketch of the Excel sheet layout
 
+-   Guidelines on:
 
-- Guidelines on:
-    - Handling missing observations 
-    - Dealing with unreadable handwritten responses from the census forms.
-    - Any other important rules to ensure data accuracy and consistency.
+    -   Handling missing observations
+    -   Dealing with unreadable handwritten responses from the census forms.
+    -   Any other important rules to ensure data accuracy and consistency.
 
----
+------------------------------------------------------------------------
 
-
-::: columns
+::::: columns
 ::: {.column width="50%"}
 **Tabular data (Structured data)**
 
@@ -290,25 +288,23 @@ knitr::include_graphics("i4.png")
 ```
 
 **Video data**
-
 :::
-:::
+:::::
 
----
-
+------------------------------------------------------------------------
 
 ```{r, echo=FALSE}
 knitr::include_graphics("aiden.png")
+
 ```
 
----
-
+------------------------------------------------------------------------
 
 ```{r, echo=FALSE}
 knitr::include_graphics("AIden.jpg")
 ```
 
----
+------------------------------------------------------------------------
 
 :::::: columns
 ::: {.column width="40%"}
@@ -321,7 +317,6 @@ Collect ingredients
 **Step 2**
 
 Recipe
-
 :::
 
 ::: {.column width="10%"}
@@ -340,7 +335,7 @@ Data analysis and modelling techniques
 :::
 ::::::
 
----
+------------------------------------------------------------------------
 
 :::::: columns
 ::: {.column width="40%"}
@@ -354,11 +349,9 @@ Collect ingredients
 
 Recipe
 
-
 **Step 3**
 
 Appliances and tools
-
 :::
 
 ::: {.column width="10%"}
@@ -374,7 +367,6 @@ Collect data
 [<b>**Step 2** </b>]{style="color:#d95f02"}
 
 Data analysis and modelling techniques
-
 
 [<b>**Step 3** </b>]{style="color:#d95f02"}
 
@@ -382,33 +374,28 @@ Software
 :::
 ::::::
 
----
+------------------------------------------------------------------------
 
 :::::: columns
 ::: {.column width="40%"}
-**Then**
-![](avo.jpg)
-
+**Then** ![](avo.jpg)
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="50%"}
-**Now**
-![](blender.jpg)
+**Now** ![](blender.jpg)
 :::
 ::::::
 
----
-
+------------------------------------------------------------------------
 
 :::::: columns
 ::: {.column width="40%"}
 **Then**
 
 Did analysis manually
-
 :::
 
 ::: {.column width="10%"}
@@ -421,7 +408,8 @@ Use software
 :::
 ::::::
 
----
+------------------------------------------------------------------------
+
 ## Florence Nightingale's Rose Diagram
 
 ![](images.jpeg)
@@ -430,4 +418,4 @@ Use software
 
 Datawrapper originated as a charting tool for journalists working in newsrooms, but today it is a popular visualisation tools in many different environments.
 
-Link: [https://www.datawrapper.de/](https://www.datawrapper.de/)
+Link: <https://www.datawrapper.de/>
