@@ -23,24 +23,21 @@ format:
 
 ---
 ## In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests.
-
 ---
 
 ## In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests.
 
----
+------------------------------------------------------------------------
 
 ## In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests.
 
+### [<b>To assess the effectiveness of the Forest Conservation Tax introduced in 2022, the government consults two managers to understand its impact.</b>]{style="color:#1f77b4"}
 
-### <span style="color:#1f77b4"><b>To assess the effectiveness of the Forest Conservation Tax introduced in 2022, the government consults two managers to understand its impact</b></span>.
+------------------------------------------------------------------------
 
----
+# 
 
-#
-
-:::: {.columns}
-
+:::::: columns
 ::: {.column width="40%"}
 ### Manager A
 
@@ -48,24 +45,16 @@ I think deforestation has slowed. I haven’t seen as many trucks lately. It see
 :::
 
 ::: {.column width="5%"}
-
 :::
-
 
 ::: {.column width="55%"}
-
-#
-
+# 
 :::
+::::::
 
-::::
+# 
 
-
-
-#
-
-:::: {.columns}
-
+:::::: columns
 ::: {.column width="40%"}
 ### Manager A
 
@@ -73,14 +62,12 @@ I think deforestation has slowed. I haven’t seen as many trucks lately. It see
 :::
 
 ::: {.column width="5%"}
-
 :::
-
 
 ::: {.column width="55%"}
 ### Manager B
 
-Using satellite images, we compared the extent of deforested  areas before and after the tax policy was introduced. The data show that these deforested areas have decreased.
+Using satellite images, we compared the extent of deforested areas before and after the tax policy was introduced. The data show that these deforested areas have decreased.
 
 ```{r}
 #| echo: false
@@ -108,47 +95,339 @@ ggplot(deforest_data, aes(x = Year, y = Deforested_Area)) +
 
 ```
 :::
+::::::
 
-::::
+------------------------------------------------------------------------
 
----
+# 
 
-#
-
-:::: {.columns}
-
+:::::: columns
 ::: {.column width="40%"}
 ### Manager A
 
 Just opinion, no data
-
-
 :::
 
 ::: {.column width="20%"}
-
 :::
-
 
 ::: {.column width="40%"}
 ### Manager B
 
 Transparent and justifiable
-
 :::
+::::::
 
-::::
-
----
+------------------------------------------------------------------------
 
 # Why Statistics are Needed for Managers
 
-1. To make informed decisions with strong evidence
+1.  To make informed decisions with strong evidence
 
-    - Statistics helps managers move from “I think” to “I know based on data.”
+    -   Statistics helps managers move from “I think” to “I know based on data.”
 
-    - Statistics gives managers the language of evidence which is important when communicating with policymakers, donors, or communities.
+    -   Statistics gives managers the language of evidence which is important when communicating with policymakers, donors, or communities.
 
-2. To measure performance and impact
+2.  To measure performance and impact
 
-3. To understand trends and patterns
+3.  To understand trends and patterns
+
+------------------------------------------------------------------------
+
+# Statistician/ Data Scientist: What they do and How they work
+
+------------------------------------------------------------------------
+
+# Have you ever cooked something or watched how a cook is preparing a meal?
+
+![](cook.png)
+
+------------------------------------------------------------------------
+
+# 
+
+:::::: columns
+::: {.column width="40%"}
+### Cook
+
+**Step 1**
+
+Collect ingredients
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="50%"}
+### Statistician/ Data Scientist
+
+[<b>**Step 1** </b>]{style="color:#d95f02"}
+
+Collect data
+:::
+::::::
+
+------------------------------------------------------------------------
+
+# Data
+
+------------------------------------------------------------------------
+
+::::: columns
+::: {.column width="50%"}
+Obesity is a common problem in captive elephants. Body weight (in kilograms) is a useful way to check their physical condition, but it is hard to weigh elephants.
+
+Therefore, **a team of researchers wants to develop a model to predict body weight (kg)** using four other body measurements of elephants.
+:::
+
+::: {.column width="50%"}
+```{r, echo=FALSE}
+knitr::include_graphics("i2.png")
+```
+:::
+:::::
+
+------------------------------------------------------------------------
+
+```{r, echo=FALSE}
+knitr::include_graphics("i1.png")
+```
+
+------------------------------------------------------------------------
+
+```{r, echo=FALSE}
+knitr::include_graphics("tidy-1.png")
+```
+
+Image source: [R for Data Science](https://r4ds.had.co.nz/tidy-data.html)
+
+------------------------------------------------------------------------
+
+## Primary Data vs Secondary Data
+
+1.  **Primary Data:** Data collected directly by the researcher for a specific purpose or study.
+
+2.  **Secondary Data:** Data that has already been collected by someone else and made readily available for researchers to use
+
+------------------------------------------------------------------------
+
+## Primary Data Collection Methods
+
+1.  Observational studies
+
+2.  Questionnaire Survey
+
+Method: Asking a set of questions
+
+Instruments:
+
+-   Printed or digital questionnaires
+
+-   Google Forms / [SurveyMonkey](https://www.surveymonkey.com/)
+
+-   Mobile apps or data collection tools (e.g., [KoboToolbox](https://www.kobotoolbox.org/))
+
+**Your turn:** Find other primary data collection methods.
+
+------------------------------------------------------------------------
+
+## Your turn
+
+Identify secondary data sources relevant to forestry and environmental sciences.
+
+-   Open source data repositories:
+
+    [ourworldindata](https://ourworldindata.org/)
+
+-   Paid data repositories
+
+---
+
+
+```{r, echo=FALSE}
+knitr::include_graphics("form.png")
+```
+
+---
+
+## Your turn
+
+Sri Lanka’s Ministry of Agriculture recently conducted a census of crop-damaging animals. The counts of toque macaques, monkeys, giant squirrels, and peacocks were recorded. The next step is to enter the collected data into an Excel spreadsheet for effective analysis.
+
+  Suppose you are responsible for creating an Excel sheet for data entry and establishing clear guidelines for data entry operators.
+
+  **Prepare a concise guideline document that includes the following:**
+
+- A rough sketch of the Excel sheet layout
+
+
+- Guidelines on:
+    - Handling missing observations 
+    - Dealing with unreadable handwritten responses from the census forms.
+    - Any other important rules to ensure data accuracy and consistency.
+
+---
+
+
+::: columns
+::: {.column width="50%"}
+**Tabular data (Structured data)**
+
+```{r, echo=FALSE}
+knitr::include_graphics("i1.png")
+```
+
+**Audio data**
+
+![](i5.gif)
+:::
+
+::: {.column width="50%"}
+**Image data**
+
+```{r, echo=FALSE}
+knitr::include_graphics("i4.png")
+```
+
+**Video data**
+
+:::
+:::
+
+---
+
+
+```{r, echo=FALSE}
+knitr::include_graphics("aiden.png")
+```
+
+---
+
+
+```{r, echo=FALSE}
+knitr::include_graphics("AIden.jpg")
+```
+
+---
+
+:::::: columns
+::: {.column width="40%"}
+### Cook
+
+**Step 1**
+
+Collect ingredients
+
+**Step 2**
+
+Recipe
+
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="50%"}
+### Statistician/ Data Scientist
+
+[<b>**Step 1** </b>]{style="color:#d95f02"}
+
+Collect data
+
+[<b>**Step 2** </b>]{style="color:#d95f02"}
+
+Data analysis and modelling techniques
+:::
+::::::
+
+---
+
+:::::: columns
+::: {.column width="40%"}
+### Cook
+
+**Step 1**
+
+Collect ingredients
+
+**Step 2**
+
+Recipe
+
+
+**Step 3**
+
+Appliances and tools
+
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="50%"}
+### Statistician/ Data Scientist
+
+[<b>**Step 1** </b>]{style="color:#d95f02"}
+
+Collect data
+
+[<b>**Step 2** </b>]{style="color:#d95f02"}
+
+Data analysis and modelling techniques
+
+
+[<b>**Step 3** </b>]{style="color:#d95f02"}
+
+Software
+:::
+::::::
+
+---
+
+:::::: columns
+::: {.column width="40%"}
+**Then**
+![](avo.jpg)
+
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="50%"}
+**Now**
+![](blender.jpg)
+:::
+::::::
+
+---
+
+
+:::::: columns
+::: {.column width="40%"}
+**Then**
+
+Did analysis manually
+
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="50%"}
+**Now**
+
+Use software
+:::
+::::::
+
+---
+## Florence Nightingale's Rose Diagram
+
+![](images.jpeg)
+
+# Datawrapper
+
+Datawrapper originated as a charting tool for journalists working in newsrooms, but today it is a popular visualisation tools in many different environments.
+
+Link: [https://www.datawrapper.de/](https://www.datawrapper.de/)
