@@ -1,5 +1,54 @@
 [
   {
+    "objectID": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.",
+    "href": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests.",
+    "text": "In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests."
+  },
+  {
+    "objectID": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.-1",
+    "href": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.-1",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests.",
+    "text": "In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests.\nTo assess the effectiveness of the Forest Conservation Tax introduced in 2022, the government consults two managers to understand its impact."
+  },
+  {
+    "objectID": "week1/index.html#primary-data-vs-secondary-data",
+    "href": "week1/index.html#primary-data-vs-secondary-data",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "Primary Data vs Secondary Data",
+    "text": "Primary Data vs Secondary Data\n\nPrimary Data: Data collected directly by the researcher for a specific purpose or study.\nSecondary Data: Data that has already been collected by someone else and made readily available for researchers to use"
+  },
+  {
+    "objectID": "week1/index.html#primary-data-collection-methods",
+    "href": "week1/index.html#primary-data-collection-methods",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "Primary Data Collection Methods",
+    "text": "Primary Data Collection Methods\n\nObservational studies\nQuestionnaire Survey\n\nMethod: Asking a set of questions\nInstruments:\n\nPrinted or digital questionnaires\nGoogle Forms / SurveyMonkey\nMobile apps or data collection tools (e.g., KoboToolbox)\n\nYour turn: Find other primary data collection methods."
+  },
+  {
+    "objectID": "week1/index.html#your-turn",
+    "href": "week1/index.html#your-turn",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "Your turn",
+    "text": "Your turn\nIdentify secondary data sources relevant to forestry and environmental sciences.\n\nOpen source data repositories:\nourworldindata\nPaid data repositories"
+  },
+  {
+    "objectID": "week1/index.html#your-turn-1",
+    "href": "week1/index.html#your-turn-1",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "Your turn",
+    "text": "Your turn\nSri Lanka’s Ministry of Agriculture recently conducted a census of crop-damaging animals. The counts of toque macaques, monkeys, giant squirrels, and peacocks were recorded. The next step is to enter the collected data into an Excel spreadsheet for effective analysis.\nSuppose you are responsible for creating an Excel sheet for data entry and establishing clear guidelines for data entry operators.\nPrepare a concise guideline document that includes the following:\n\nA rough sketch of the Excel sheet layout\nGuidelines on:\n\nHandling missing observations\nDealing with unreadable handwritten responses from the census forms.\nAny other important rules to ensure data accuracy and consistency."
+  },
+  {
+    "objectID": "week1/index.html#florence-nightingales-rose-diagram",
+    "href": "week1/index.html#florence-nightingales-rose-diagram",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "Florence Nightingale’s Rose Diagram",
+    "text": "Florence Nightingale’s Rose Diagram"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "EMF 115 1.0 Key Skills for Resource Managers (Statistics, Data Science and Statistical Programming)",
@@ -19,160 +68,6 @@
     "title": "Pre-lecture Work: Tasks to Complete Before the Lecture",
     "section": "Need help:",
     "text": "Need help:\nIf you encounter any installation issues, feel free to contact:\n📧 ttalagala@sjp.ac.lk"
-  },
-  {
-    "objectID": "week1/index.html#learning-objective",
-    "href": "week1/index.html#learning-objective",
-    "title": "STA 1132 Descriptive Statistics",
-    "section": "Learning Objective:",
-    "text": "Learning Objective:\nBy the end of this lecture, students will be able to:\n\nDefine statistics and explain its fundamental concepts.\nIdentify the various fields and contexts where statistics is used.\nExplain the importance and significance of statistics in decision-making and problem-solving processes."
-  },
-  {
-    "objectID": "week1/index.html#what-is-statistics",
-    "href": "week1/index.html#what-is-statistics",
-    "title": "STA 1132 Descriptive Statistics",
-    "section": "What is Statistics?",
-    "text": "What is Statistics?\n\nThe science of collecting, organizing, and analyzing data, and presenting and interpreting the results derived from that data to gain insights and make informed decisions."
-  },
-  {
-    "objectID": "week1/index.html#summary-measures",
-    "href": "week1/index.html#summary-measures",
-    "title": "STA 1132 Descriptive Statistics",
-    "section": "Summary measures",
-    "text": "Summary measures\n\n\n\n\n\n\nGender\nA\nB\nC\nWeight\n\n\n\n\n\nFemale:50\nMin. : 70.00\nMin. :0.700\nMin. :1.200\nMin. :1184\n\n\n\nMale :50\n1st Qu.: 99.20\n1st Qu.:2.575\n1st Qu.:2.900\n1st Qu.:3366\n\n\n\nNA\nMedian : 99.70\nMedian :3.300\nMedian :3.600\nMedian :4176\n\n\n\nNA\nMean : 99.14\nMean :3.359\nMean :3.591\nMean :4258\n\n\n\nNA\n3rd Qu.:100.50\n3rd Qu.:4.200\n3rd Qu.:4.225\n3rd Qu.:5031\n\n\n\nNA\nMax. :110.00\nMax. :5.900\nMax. :6.300\nMax. :7550"
-  },
-  {
-    "objectID": "week1/index.html#presenting-data-example",
-    "href": "week1/index.html#presenting-data-example",
-    "title": "STA 1132 Descriptive Statistics",
-    "section": "Presenting Data: Example",
-    "text": "Presenting Data: Example\nhttps://thiyangt.github.io/dsjobtraker_dashboard_mc/#top-software-and-skills"
-  },
-  {
-    "objectID": "week1/index.html#from-the-sales-data-the-company-gained-insights-into-customer-behavior-such-as-which-products-were-most-popular-in-different-regions.",
-    "href": "week1/index.html#from-the-sales-data-the-company-gained-insights-into-customer-behavior-such-as-which-products-were-most-popular-in-different-regions.",
-    "title": "STA 1132 Descriptive Statistics",
-    "section": "From the sales data, the company gained insights into customer behavior — such as which products were most popular in different regions.",
-    "text": "From the sales data, the company gained insights into customer behavior — such as which products were most popular in different regions."
-  },
-  {
-    "objectID": "week1/index.html#applications-of-statistics-in-different-fields",
-    "href": "week1/index.html#applications-of-statistics-in-different-fields",
-    "title": "STA 1132 Descriptive Statistics",
-    "section": "Applications of statistics in different fields",
-    "text": "Applications of statistics in different fields\n\n\n\n\n\n\n\n\n\nTerminology\nField\n\n\n\n\nEpidemiology\nThe study and analysis of the patterns, causes and effects of health and disease conditions\n\n\nAstrostatistics\nApplies statistical analysis to the understanding of astronomical data\n\n\nBiostatistics\nStudies biological phenomena\n\n\nDemography\nStatistical study of all populations\n\n\nSocial statistics\nStudy human behavior in a social environment\n\n\nChemometrics\nScience of extracting information from chemical systems by data-driven means"
-  },
-  {
-    "objectID": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.",
-    "href": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests.",
-    "text": "In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests."
-  },
-  {
-    "objectID": "week1/index.html#manager-a",
-    "href": "week1/index.html#manager-a",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "Manager A",
-    "text": "Manager A"
-  },
-  {
-    "objectID": "week1/index.html#manager-b",
-    "href": "week1/index.html#manager-b",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "Manager B",
-    "text": "Manager B"
-  },
-  {
-    "objectID": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.-1",
-    "href": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.-1",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests.",
-    "text": "In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests.\nTo assess the effectiveness of the Forest Conservation Tax introduced in 2022, the government consults two managers to understand its impact."
-  },
-  {
-    "objectID": "week1/index.html#to-assess-the-effectiveness-of-the-forest-conservation-tax-introduced-in-2022-the-government-consults-two-managers-to-understand-its-impact.",
-    "href": "week1/index.html#to-assess-the-effectiveness-of-the-forest-conservation-tax-introduced-in-2022-the-government-consults-two-managers-to-understand-its-impact.",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "To assess the effectiveness of the Forest Conservation Tax introduced in 2022, the government consults two managers to understand its impact.",
-    "text": "To assess the effectiveness of the Forest Conservation Tax introduced in 2022, the government consults two managers to understand its impact."
-  },
-  {
-    "objectID": "week1/index.html#why-statistics-are-needed-for-managers",
-    "href": "week1/index.html#why-statistics-are-needed-for-managers",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "Why Statistics are Needed for Managers",
-    "text": "Why Statistics are Needed for Managers\n\nTo Make Informed Decisions with Strong Evidence\n\n\nStatistics helps managers move from “I think” to “I know based on data.”\nStatistics gives managers the language of evidence which is important when communicating with policymakers, donors, or communities.\n\n\nTo Measure Performance and Impact\nTo Understand Trends and Patterns"
-  },
-  {
-    "objectID": "week1/index.html#primary-data-collection-methods",
-    "href": "week1/index.html#primary-data-collection-methods",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "Primary Data Collection Methods",
-    "text": "Primary Data Collection Methods\n\nObservational studies\nQuestionnaire Survey\n\nMethod: Asking a set of questions\nInstruments:\n\nPrinted or digital questionnaires\nGoogle Forms / SurveyMonkey\nMobile apps or data collection tools (e.g., KoboToolbox)\n\nYour turn: Find other primary data collection methods."
-  },
-  {
-    "objectID": "week1/index.html#primary-data-vs-secondary-data",
-    "href": "week1/index.html#primary-data-vs-secondary-data",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "Primary Data vs Secondary Data",
-    "text": "Primary Data vs Secondary Data\n\nPrimary Data: Data collected directly by the researcher for a specific purpose or study.\nSecondary Data: Data that has already been collected by someone else and made readily available for researchers to use"
-  },
-  {
-    "objectID": "week1/index.html#your-turn",
-    "href": "week1/index.html#your-turn",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "Your turn",
-    "text": "Your turn\nIdentify secondary data sources relevant to forestry and environmental sciences.\n\nOpen source data repositories:\nourworldindata\nPaid data repositories"
-  },
-  {
-    "objectID": "week1/index.html#your-turn-1",
-    "href": "week1/index.html#your-turn-1",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "Your turn",
-    "text": "Your turn\nSri Lanka’s Ministry of Agriculture recently conducted a census of crop-damaging animals. The counts of toque macaques, monkeys, giant squirrels, and peacocks were recorded. The next step is to enter the collected data into an Excel spreadsheet for effective analysis.\nSuppose you are responsible for creating an Excel sheet for data entry and establishing clear guidelines for data entry operators.\nPrepare a concise guideline document that includes the following:\n\nA rough sketch of the Excel sheet layout\nGuidelines on:\n\nHandling missing observations\nDealing with unreadable handwritten responses from the census forms.\nAny other important rules to ensure data accuracy and consistency."
-  },
-  {
-    "objectID": "week1/index.html#section-5",
-    "href": "week1/index.html#section-5",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "—",
-    "text": "—\n\n\nTabular data (Structured data)\n\n\n\n\n\n\n\n\n\nAudio data\n\n\nImage data"
-  },
-  {
-    "objectID": "week1/index.html#florence-nightingales-rose-diagram",
-    "href": "week1/index.html#florence-nightingales-rose-diagram",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "Florence Nightingale’s Rose Diagram",
-    "text": "Florence Nightingale’s Rose Diagram"
-  },
-  {
-    "objectID": "week1/index.html#then",
-    "href": "week1/index.html#then",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "Then",
-    "text": "Then"
-  },
-  {
-    "objectID": "week1/index.html#now",
-    "href": "week1/index.html#now",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "Now",
-    "text": "Now\n - Use software"
-  },
-  {
-    "objectID": "week1/index.html#then-1",
-    "href": "week1/index.html#then-1",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "Then",
-    "text": "Then\n\n\nDid analysis manually"
-  },
-  {
-    "objectID": "week1/index.html#now-1",
-    "href": "week1/index.html#now-1",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "Now",
-    "text": "Now\n - Use software"
   },
   {
     "objectID": "slides.html",
