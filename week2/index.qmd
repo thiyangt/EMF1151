@@ -1,0 +1,190 @@
+---
+title: "Key Skills in <br/> Statistics, <br/> Data Science, <br/> and Statistical Programming  <br/> for Resource Managers"
+subtitle: "(Conducted under EMF 115 1.0 Key Skills for Resource Managers)"
+author: "Dr. Thiyanga S. Talagala "
+format:
+  revealjs:
+    css:
+        - "custom.css"
+    width: 1600
+    height: 900
+    margin: 0.1
+    theme: simple
+    transition: slide
+    background-transition: fade
+    slide-number: true
+    show-slide-number: all
+    title-slide-attributes: 
+      data-background-color: "#016450"
+      data-background-image: none
+---
+
+# Recap
+
+- Why Statistics is needed for managers
+
+- Statistician/ Data Scientist: What they do and How they work
+
+
+- Primary Data vs Secondary Data
+
+
+- Primary Data Collection Methods
+
+- Some tools for data analysis
+
+# Data Visualisation
+
+---
+
+```{r, echo=TRUE}
+library(palmerpenguins)
+data("penguins")
+library(dplyr)
+penguins <- penguins |>
+  select(1, 2, 5, 6)
+as.data.frame(penguins) |> knitr::kable()
+```
+---
+
+## Step 1: Identify qualitative and quantitative variables
+
+```{r}
+as.data.frame(penguins) |> knitr::kable()
+
+```
+
+---
+
+# Step 2: Qualitative Data Analysis: Univariate Analysis
+
+---
+
+### Composition of the sample by species
+
+```{r, echo=TRUE}
+library(ggplot2)
+ggplot(penguins, aes(x=species)) + geom_bar()
+```
+
+---
+
+### Composition of the sample by species
+
+```{r, echo=TRUE}
+library(ggplot2)
+p1 <- ggplot(penguins, aes(x=species, fill=species)) + geom_bar()
+p1
+```
+
+---
+
+### Selecting colours
+
+Go to [https://colorbrewer2.org/](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
+
+Sri Lanka Nature Inspired Colour Palettes [https://github.com/thiyangt/nic](https://github.com/thiyangt/nic)
+
+---
+## Pie chart
+
+```{r}
+#| warning: false
+#| message: false
+## Pie chart
+library(magrittr)
+library(tidyverse)
+# Remove rows with missing species data
+pf <- penguins %>%
+  drop_na(species)
+
+# Create the frequency table with counts and percentages
+frequency_table <- pf %>%
+  count(species) %>%
+  mutate(percentage = n / sum(n) * 100)
+
+# Plot pie chart
+pie_chart <- ggplot(frequency_table, aes(x = "", y = n, fill = species)) +
+  geom_bar(stat = "identity", width = 1) +
+  coord_polar("y", start=0) +
+  labs(title = "Composition of the Sample by Species") +
+  theme_void() +
+  theme(legend.position = "bottom")
+pie_chart
+```
+
+
+
+# Which is the best?
+
+##
+
+:::: {.columns}
+::: {.column width="50%"}
+```{r}
+p1
+```
+:::
+
+::: {.column width="50%"}
+```{r}
+pie_chart
+```
+:::
+::::
+
+
+
+# Step 3: Qualitative Data Analysis: Bivariate Analysis
+
+
+#
+  
+```{r, echo=TRUE}
+library(ggplot2)
+ggplot(penguins, aes(x=species, fill=island)) + geom_bar() 
+```
+
+
+#
+  
+```{r, echo=TRUE}
+library(ggplot2)
+ggplot(penguins, aes(x=species, fill=island)) + geom_bar()  + scale_fill_brewer(palette="Set2")
+```
+
+
+#
+  
+```{r, echo=TRUE}
+library(ggplot2)
+ggplot(penguins, aes(x = species, fill = island)) + 
+  geom_bar(position = position_dodge2(preserve = "single", width = 0.9), width = 0.8) + 
+  scale_fill_brewer(palette = "Set2")
+
+```
+
+
+# Step 4: Quantitative Data Analysis: Univariate Analysis
+
+## Histogram
+
+```{r}
+ggplot(penguins, aes(x = body_mass_g)) + geom_histogram(col="white")
+
+```
+
+## Histogram
+
+```{r}
+ggplot(penguins, aes(x = flipper_length_mm)) + geom_histogram(col="white")
+
+```
+
+# Step 5: Quantitative Data Analysis: Bivariate Analysis
+
+## Scatterplot
+
+```{r}
+ggplot(penguins, aes(x = flipper_length_mm, y=body_mass_g)) + geom_point()
+```

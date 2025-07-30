@@ -5,3 +5,10 @@ title: "Lecture Slides"
 ## 17 July 2025
 
 [Slides 1](./week1/index.html)
+
+[Reading: Chapter 1](https://thiyangt.github.io/rbook/intro.html)
+
+
+## 31 July 2025
+
+[Slides 2](./week2/index.html)
