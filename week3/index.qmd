@@ -1,0 +1,36 @@
+---
+title: "Key Skills in <br/> Statistics, <br/> Data Science, <br/> and Statistical Programming  <br/> for Resource Managers"
+subtitle: "(Conducted under EMF 115 1.0 Key Skills for Resource Managers)"
+author: "Dr. Thiyanga S. Talagala "
+format:
+  revealjs:
+    css:
+        - "custom.css"
+    width: 1600
+    height: 900
+    margin: 0.1
+    theme: simple
+    transition: slide
+    background-transition: fade
+    slide-number: true
+    show-slide-number: all
+    title-slide-attributes: 
+      data-background-color: "#016450"
+      data-background-image: none
+---
+
+# Introduction to Machine Learning
+
+## Group the objects
+
+![](i2.png)
+---
+
+##
+
+![](i3.png)
+---
+
+## 
+
+![](i1.png)

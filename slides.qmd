@@ -8,7 +8,10 @@ title: "Lecture Slides"
 
 [Reading: Chapter 1](https://thiyangt.github.io/rbook/intro.html)
 
-
 ## 31 July 2025
 
 [Slides 2](./week2/index.html)
+
+## 7 August 2025
+
+[Slides 3](./week3/index.html)

@@ -1,5 +1,96 @@
 [
   {
+    "objectID": "week3/index.html#group-the-objects",
+    "href": "week3/index.html#group-the-objects",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "Group the objects",
+    "text": "Group the objects"
+  },
+  {
+    "objectID": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.",
+    "href": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests.",
+    "text": "In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests."
+  },
+  {
+    "objectID": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.-1",
+    "href": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.-1",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests.",
+    "text": "In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests.\nTo assess the effectiveness of the Forest Conservation Tax introduced in 2022, the government consults two managers to understand its impact."
+  },
+  {
+    "objectID": "week1/index.html#primary-data-vs-secondary-data",
+    "href": "week1/index.html#primary-data-vs-secondary-data",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "Primary Data vs Secondary Data",
+    "text": "Primary Data vs Secondary Data\n\nPrimary Data: Data collected directly by the researcher for a specific purpose or study.\nSecondary Data: Data that has already been collected by someone else and made readily available for researchers to use"
+  },
+  {
+    "objectID": "week1/index.html#primary-data-collection-methods",
+    "href": "week1/index.html#primary-data-collection-methods",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "Primary Data Collection Methods",
+    "text": "Primary Data Collection Methods\n\nObservational studies\nQuestionnaire Survey\n\nMethod: Asking a set of questions\nInstruments:\n\nPrinted or digital questionnaires\nGoogle Forms / SurveyMonkey\nMobile apps or data collection tools (e.g., KoboToolbox)\n\nYour turn: Find other primary data collection methods."
+  },
+  {
+    "objectID": "week1/index.html#your-turn",
+    "href": "week1/index.html#your-turn",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "Your turn",
+    "text": "Your turn\nIdentify secondary data sources relevant to forestry and environmental sciences.\n\nOpen source data repositories:\nourworldindata\nPaid data repositories"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "EMF 115 1.0 Key Skills for Resource Managers (Statistics, Data Science and Statistical Programming)",
+    "section": "",
+    "text": "This session, conducted under the unit EMF 115 1.0, is designed to equip future resource managers with essential skills in statistics, data science, and statistical programming.\nThrough hands-on learning with R, students will develop the ability to collect, manage, analyze, and visualize data relevant to environmental and resource management contexts.\nStudents are introduced to practical data science workflows, including data wrangling, exploratory data analysis, visualization, and introduction to statistics and machine learning models, all contextualized within environmental and forestry applications."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Pre-lecture Work: Tasks to Complete Before the Lecture",
+    "section": "",
+    "text": "R is an open-source software that we use for statistical computing, data analysis, and visualization. On Thursday, 17 July 2025, we will explore key statistical, data analysis, and data science skills that resource managers should be aware of.\nPlease complete the following tasks before attending the lecture:"
+  },
+  {
+    "objectID": "about.html#need-help",
+    "href": "about.html#need-help",
+    "title": "Pre-lecture Work: Tasks to Complete Before the Lecture",
+    "section": "Need help:",
+    "text": "Need help:\nIf you encounter any installation issues, feel free to contact:\n📧 ttalagala@sjp.ac.lk"
+  },
+  {
+    "objectID": "slides.html",
+    "href": "slides.html",
+    "title": "Lecture Slides",
+    "section": "",
+    "text": "Slides 1\nReading: Chapter 1"
+  },
+  {
+    "objectID": "slides.html#july-2025",
+    "href": "slides.html#july-2025",
+    "title": "Lecture Slides",
+    "section": "",
+    "text": "Slides 1\nReading: Chapter 1"
+  },
+  {
+    "objectID": "slides.html#july-2025-1",
+    "href": "slides.html#july-2025-1",
+    "title": "Lecture Slides",
+    "section": "31 July 2025",
+    "text": "31 July 2025\nSlides 2"
+  },
+  {
+    "objectID": "slides.html#august-2025",
+    "href": "slides.html#august-2025",
+    "title": "Lecture Slides",
+    "section": "7 August 2025",
+    "text": "7 August 2025\nSlides 3"
+  },
+  {
     "objectID": "week2/index.html#step-1-identify-qualitative-and-quantitative-variables",
     "href": "week2/index.html#step-1-identify-qualitative-and-quantitative-variables",
     "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
@@ -110,82 +201,5 @@
     "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
     "section": "",
     "text": "ggplot(data=penguins, aes(x=flipper_length_mm, y=body_mass_g, col=species)) + geom_smooth(method=\"lm\", se=FALSE) + geom_point(size=3)"
-  },
-  {
-    "objectID": "slides.html",
-    "href": "slides.html",
-    "title": "Lecture Slides",
-    "section": "",
-    "text": "Slides 1\nReading: Chapter 1"
-  },
-  {
-    "objectID": "slides.html#july-2025",
-    "href": "slides.html#july-2025",
-    "title": "Lecture Slides",
-    "section": "",
-    "text": "Slides 1\nReading: Chapter 1"
-  },
-  {
-    "objectID": "slides.html#july-2025-1",
-    "href": "slides.html#july-2025-1",
-    "title": "Lecture Slides",
-    "section": "31 July 2025",
-    "text": "31 July 2025\nSlides 2"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Pre-lecture Work: Tasks to Complete Before the Lecture",
-    "section": "",
-    "text": "R is an open-source software that we use for statistical computing, data analysis, and visualization. On Thursday, 17 July 2025, we will explore key statistical, data analysis, and data science skills that resource managers should be aware of.\nPlease complete the following tasks before attending the lecture:"
-  },
-  {
-    "objectID": "about.html#need-help",
-    "href": "about.html#need-help",
-    "title": "Pre-lecture Work: Tasks to Complete Before the Lecture",
-    "section": "Need help:",
-    "text": "Need help:\nIf you encounter any installation issues, feel free to contact:\n📧 ttalagala@sjp.ac.lk"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "EMF 115 1.0 Key Skills for Resource Managers (Statistics, Data Science and Statistical Programming)",
-    "section": "",
-    "text": "This session, conducted under the unit EMF 115 1.0, is designed to equip future resource managers with essential skills in statistics, data science, and statistical programming.\nThrough hands-on learning with R, students will develop the ability to collect, manage, analyze, and visualize data relevant to environmental and resource management contexts.\nStudents are introduced to practical data science workflows, including data wrangling, exploratory data analysis, visualization, and introduction to statistics and machine learning models, all contextualized within environmental and forestry applications."
-  },
-  {
-    "objectID": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.",
-    "href": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests.",
-    "text": "In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests."
-  },
-  {
-    "objectID": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.-1",
-    "href": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.-1",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests.",
-    "text": "In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests.\nTo assess the effectiveness of the Forest Conservation Tax introduced in 2022, the government consults two managers to understand its impact."
-  },
-  {
-    "objectID": "week1/index.html#primary-data-vs-secondary-data",
-    "href": "week1/index.html#primary-data-vs-secondary-data",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "Primary Data vs Secondary Data",
-    "text": "Primary Data vs Secondary Data\n\nPrimary Data: Data collected directly by the researcher for a specific purpose or study.\nSecondary Data: Data that has already been collected by someone else and made readily available for researchers to use"
-  },
-  {
-    "objectID": "week1/index.html#primary-data-collection-methods",
-    "href": "week1/index.html#primary-data-collection-methods",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "Primary Data Collection Methods",
-    "text": "Primary Data Collection Methods\n\nObservational studies\nQuestionnaire Survey\n\nMethod: Asking a set of questions\nInstruments:\n\nPrinted or digital questionnaires\nGoogle Forms / SurveyMonkey\nMobile apps or data collection tools (e.g., KoboToolbox)\n\nYour turn: Find other primary data collection methods."
-  },
-  {
-    "objectID": "week1/index.html#your-turn",
-    "href": "week1/index.html#your-turn",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "Your turn",
-    "text": "Your turn\nIdentify secondary data sources relevant to forestry and environmental sciences.\n\nOpen source data repositories:\nourworldindata\nPaid data repositories"
   }
 ]
