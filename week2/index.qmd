@@ -338,3 +338,10 @@ ggplot(data=penguins, aes(x=flipper_length_mm, y=body_mass_g)) + geom_smooth(met
 ```{r, echo=TRUE}
 ggplot(data=penguins, aes(x=flipper_length_mm, y=body_mass_g, col=species)) + geom_smooth(method="lm", se=FALSE) + geom_point()
 ```
+
+
+##
+
+```{r, echo=TRUE}
+ggplot(data=penguins, aes(x=flipper_length_mm, y=body_mass_g, col=species)) + geom_smooth(method="lm", se=FALSE) + geom_point(size=3)
+```

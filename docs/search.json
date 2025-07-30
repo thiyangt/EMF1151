@@ -1,89 +1,5 @@
 [
   {
-    "objectID": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.",
-    "href": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests.",
-    "text": "In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests."
-  },
-  {
-    "objectID": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.-1",
-    "href": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.-1",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests.",
-    "text": "In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests.\nTo assess the effectiveness of the Forest Conservation Tax introduced in 2022, the government consults two managers to understand its impact."
-  },
-  {
-    "objectID": "week1/index.html#primary-data-vs-secondary-data",
-    "href": "week1/index.html#primary-data-vs-secondary-data",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "Primary Data vs Secondary Data",
-    "text": "Primary Data vs Secondary Data\n\nPrimary Data: Data collected directly by the researcher for a specific purpose or study.\nSecondary Data: Data that has already been collected by someone else and made readily available for researchers to use"
-  },
-  {
-    "objectID": "week1/index.html#primary-data-collection-methods",
-    "href": "week1/index.html#primary-data-collection-methods",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "Primary Data Collection Methods",
-    "text": "Primary Data Collection Methods\n\nObservational studies\nQuestionnaire Survey\n\nMethod: Asking a set of questions\nInstruments:\n\nPrinted or digital questionnaires\nGoogle Forms / SurveyMonkey\nMobile apps or data collection tools (e.g., KoboToolbox)\n\nYour turn: Find other primary data collection methods."
-  },
-  {
-    "objectID": "week1/index.html#your-turn",
-    "href": "week1/index.html#your-turn",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "Your turn",
-    "text": "Your turn\nIdentify secondary data sources relevant to forestry and environmental sciences.\n\nOpen source data repositories:\nourworldindata\nPaid data repositories"
-  },
-  {
-    "objectID": "week1/index.html#your-turn-1",
-    "href": "week1/index.html#your-turn-1",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "Your turn",
-    "text": "Your turn\nSri Lanka’s Ministry of Agriculture recently conducted a census of crop-damaging animals. The counts of toque macaques, monkeys, giant squirrels, and peacocks were recorded. The next step is to enter the collected data into an Excel spreadsheet for effective analysis.\nSuppose you are responsible for creating an Excel sheet for data entry and establishing clear guidelines for data entry operators.\nPrepare a concise guideline document that includes the following:\n\nA rough sketch of the Excel sheet layout\nGuidelines on:\n\nHandling missing observations\nDealing with unreadable handwritten responses from the census forms.\nAny other important rules to ensure data accuracy and consistency."
-  },
-  {
-    "objectID": "week1/index.html#florence-nightingales-rose-diagram",
-    "href": "week1/index.html#florence-nightingales-rose-diagram",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "Florence Nightingale’s Rose Diagram",
-    "text": "Florence Nightingale’s Rose Diagram"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "EMF 115 1.0 Key Skills for Resource Managers (Statistics, Data Science and Statistical Programming)",
-    "section": "",
-    "text": "This session, conducted under the unit EMF 115 1.0, is designed to equip future resource managers with essential skills in statistics, data science, and statistical programming.\nThrough hands-on learning with R, students will develop the ability to collect, manage, analyze, and visualize data relevant to environmental and resource management contexts.\nStudents are introduced to practical data science workflows, including data wrangling, exploratory data analysis, visualization, and introduction to statistics and machine learning models, all contextualized within environmental and forestry applications."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Pre-lecture Work: Tasks to Complete Before the Lecture",
-    "section": "",
-    "text": "R is an open-source software that we use for statistical computing, data analysis, and visualization. On Thursday, 17 July 2025, we will explore key statistical, data analysis, and data science skills that resource managers should be aware of.\nPlease complete the following tasks before attending the lecture:"
-  },
-  {
-    "objectID": "about.html#need-help",
-    "href": "about.html#need-help",
-    "title": "Pre-lecture Work: Tasks to Complete Before the Lecture",
-    "section": "Need help:",
-    "text": "Need help:\nIf you encounter any installation issues, feel free to contact:\n📧 ttalagala@sjp.ac.lk"
-  },
-  {
-    "objectID": "slides.html",
-    "href": "slides.html",
-    "title": "Lecture Slides",
-    "section": "",
-    "text": "Slides 1"
-  },
-  {
-    "objectID": "slides.html#july-2025",
-    "href": "slides.html#july-2025",
-    "title": "Lecture Slides",
-    "section": "",
-    "text": "Slides 1"
-  },
-  {
     "objectID": "week2/index.html#step-1-identify-qualitative-and-quantitative-variables",
     "href": "week2/index.html#step-1-identify-qualitative-and-quantitative-variables",
     "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
@@ -91,25 +7,11 @@
     "text": "Step 1: Identify qualitative and quantitative variables\n\n\n\n\n\nspecies\nisland\nflipper_length_mm\nbody_mass_g\n\n\n\n\nAdelie\nTorgersen\n181\n3750\n\n\nAdelie\nTorgersen\n186\n3800\n\n\nAdelie\nTorgersen\n195\n3250\n\n\nAdelie\nTorgersen\nNA\nNA\n\n\nAdelie\nTorgersen\n193\n3450\n\n\nAdelie\nTorgersen\n190\n3650\n\n\nAdelie\nTorgersen\n181\n3625\n\n\nAdelie\nTorgersen\n195\n4675\n\n\nAdelie\nTorgersen\n193\n3475\n\n\nAdelie\nTorgersen\n190\n4250\n\n\nAdelie\nTorgersen\n186\n3300\n\n\nAdelie\nTorgersen\n180\n3700\n\n\nAdelie\nTorgersen\n182\n3200\n\n\nAdelie\nTorgersen\n191\n3800\n\n\nAdelie\nTorgersen\n198\n4400\n\n\nAdelie\nTorgersen\n185\n3700\n\n\nAdelie\nTorgersen\n195\n3450\n\n\nAdelie\nTorgersen\n197\n4500\n\n\nAdelie\nTorgersen\n184\n3325\n\n\nAdelie\nTorgersen\n194\n4200\n\n\nAdelie\nBiscoe\n174\n3400\n\n\nAdelie\nBiscoe\n180\n3600\n\n\nAdelie\nBiscoe\n189\n3800\n\n\nAdelie\nBiscoe\n185\n3950\n\n\nAdelie\nBiscoe\n180\n3800\n\n\nAdelie\nBiscoe\n187\n3800\n\n\nAdelie\nBiscoe\n183\n3550\n\n\nAdelie\nBiscoe\n187\n3200\n\n\nAdelie\nBiscoe\n172\n3150\n\n\nAdelie\nBiscoe\n180\n3950\n\n\nAdelie\nDream\n178\n3250\n\n\nAdelie\nDream\n178\n3900\n\n\nAdelie\nDream\n188\n3300\n\n\nAdelie\nDream\n184\n3900\n\n\nAdelie\nDream\n195\n3325\n\n\nAdelie\nDream\n196\n4150\n\n\nAdelie\nDream\n190\n3950\n\n\nAdelie\nDream\n180\n3550\n\n\nAdelie\nDream\n181\n3300\n\n\nAdelie\nDream\n184\n4650\n\n\nAdelie\nDream\n182\n3150\n\n\nAdelie\nDream\n195\n3900\n\n\nAdelie\nDream\n186\n3100\n\n\nAdelie\nDream\n196\n4400\n\n\nAdelie\nDream\n185\n3000\n\n\nAdelie\nDream\n190\n4600\n\n\nAdelie\nDream\n182\n3425\n\n\nAdelie\nDream\n179\n2975\n\n\nAdelie\nDream\n190\n3450\n\n\nAdelie\nDream\n191\n4150\n\n\nAdelie\nBiscoe\n186\n3500\n\n\nAdelie\nBiscoe\n188\n4300\n\n\nAdelie\nBiscoe\n190\n3450\n\n\nAdelie\nBiscoe\n200\n4050\n\n\nAdelie\nBiscoe\n187\n2900\n\n\nAdelie\nBiscoe\n191\n3700\n\n\nAdelie\nBiscoe\n186\n3550\n\n\nAdelie\nBiscoe\n193\n3800\n\n\nAdelie\nBiscoe\n181\n2850\n\n\nAdelie\nBiscoe\n194\n3750\n\n\nAdelie\nBiscoe\n185\n3150\n\n\nAdelie\nBiscoe\n195\n4400\n\n\nAdelie\nBiscoe\n185\n3600\n\n\nAdelie\nBiscoe\n192\n4050\n\n\nAdelie\nBiscoe\n184\n2850\n\n\nAdelie\nBiscoe\n192\n3950\n\n\nAdelie\nBiscoe\n195\n3350\n\n\nAdelie\nBiscoe\n188\n4100\n\n\nAdelie\nTorgersen\n190\n3050\n\n\nAdelie\nTorgersen\n198\n4450\n\n\nAdelie\nTorgersen\n190\n3600\n\n\nAdelie\nTorgersen\n190\n3900\n\n\nAdelie\nTorgersen\n196\n3550\n\n\nAdelie\nTorgersen\n197\n4150\n\n\nAdelie\nTorgersen\n190\n3700\n\n\nAdelie\nTorgersen\n195\n4250\n\n\nAdelie\nTorgersen\n191\n3700\n\n\nAdelie\nTorgersen\n184\n3900\n\n\nAdelie\nTorgersen\n187\n3550\n\n\nAdelie\nTorgersen\n195\n4000\n\n\nAdelie\nTorgersen\n189\n3200\n\n\nAdelie\nTorgersen\n196\n4700\n\n\nAdelie\nTorgersen\n187\n3800\n\n\nAdelie\nTorgersen\n193\n4200\n\n\nAdelie\nDream\n191\n3350\n\n\nAdelie\nDream\n194\n3550\n\n\nAdelie\nDream\n190\n3800\n\n\nAdelie\nDream\n189\n3500\n\n\nAdelie\nDream\n189\n3950\n\n\nAdelie\nDream\n190\n3600\n\n\nAdelie\nDream\n202\n3550\n\n\nAdelie\nDream\n205\n4300\n\n\nAdelie\nDream\n185\n3400\n\n\nAdelie\nDream\n186\n4450\n\n\nAdelie\nDream\n187\n3300\n\n\nAdelie\nDream\n208\n4300\n\n\nAdelie\nDream\n190\n3700\n\n\nAdelie\nDream\n196\n4350\n\n\nAdelie\nDream\n178\n2900\n\n\nAdelie\nDream\n192\n4100\n\n\nAdelie\nBiscoe\n192\n3725\n\n\nAdelie\nBiscoe\n203\n4725\n\n\nAdelie\nBiscoe\n183\n3075\n\n\nAdelie\nBiscoe\n190\n4250\n\n\nAdelie\nBiscoe\n193\n2925\n\n\nAdelie\nBiscoe\n184\n3550\n\n\nAdelie\nBiscoe\n199\n3750\n\n\nAdelie\nBiscoe\n190\n3900\n\n\nAdelie\nBiscoe\n181\n3175\n\n\nAdelie\nBiscoe\n197\n4775\n\n\nAdelie\nBiscoe\n198\n3825\n\n\nAdelie\nBiscoe\n191\n4600\n\n\nAdelie\nBiscoe\n193\n3200\n\n\nAdelie\nBiscoe\n197\n4275\n\n\nAdelie\nBiscoe\n191\n3900\n\n\nAdelie\nBiscoe\n196\n4075\n\n\nAdelie\nTorgersen\n188\n2900\n\n\nAdelie\nTorgersen\n199\n3775\n\n\nAdelie\nTorgersen\n189\n3350\n\n\nAdelie\nTorgersen\n189\n3325\n\n\nAdelie\nTorgersen\n187\n3150\n\n\nAdelie\nTorgersen\n198\n3500\n\n\nAdelie\nTorgersen\n176\n3450\n\n\nAdelie\nTorgersen\n202\n3875\n\n\nAdelie\nTorgersen\n186\n3050\n\n\nAdelie\nTorgersen\n199\n4000\n\n\nAdelie\nTorgersen\n191\n3275\n\n\nAdelie\nTorgersen\n195\n4300\n\n\nAdelie\nTorgersen\n191\n3050\n\n\nAdelie\nTorgersen\n210\n4000\n\n\nAdelie\nTorgersen\n190\n3325\n\n\nAdelie\nTorgersen\n197\n3500\n\n\nAdelie\nDream\n193\n3500\n\n\nAdelie\nDream\n199\n4475\n\n\nAdelie\nDream\n187\n3425\n\n\nAdelie\nDream\n190\n3900\n\n\nAdelie\nDream\n191\n3175\n\n\nAdelie\nDream\n200\n3975\n\n\nAdelie\nDream\n185\n3400\n\n\nAdelie\nDream\n193\n4250\n\n\nAdelie\nDream\n193\n3400\n\n\nAdelie\nDream\n187\n3475\n\n\nAdelie\nDream\n188\n3050\n\n\nAdelie\nDream\n190\n3725\n\n\nAdelie\nDream\n192\n3000\n\n\nAdelie\nDream\n185\n3650\n\n\nAdelie\nDream\n190\n4250\n\n\nAdelie\nDream\n184\n3475\n\n\nAdelie\nDream\n195\n3450\n\n\nAdelie\nDream\n193\n3750\n\n\nAdelie\nDream\n187\n3700\n\n\nAdelie\nDream\n201\n4000\n\n\nGentoo\nBiscoe\n211\n4500\n\n\nGentoo\nBiscoe\n230\n5700\n\n\nGentoo\nBiscoe\n210\n4450\n\n\nGentoo\nBiscoe\n218\n5700\n\n\nGentoo\nBiscoe\n215\n5400\n\n\nGentoo\nBiscoe\n210\n4550\n\n\nGentoo\nBiscoe\n211\n4800\n\n\nGentoo\nBiscoe\n219\n5200\n\n\nGentoo\nBiscoe\n209\n4400\n\n\nGentoo\nBiscoe\n215\n5150\n\n\nGentoo\nBiscoe\n214\n4650\n\n\nGentoo\nBiscoe\n216\n5550\n\n\nGentoo\nBiscoe\n214\n4650\n\n\nGentoo\nBiscoe\n213\n5850\n\n\nGentoo\nBiscoe\n210\n4200\n\n\nGentoo\nBiscoe\n217\n5850\n\n\nGentoo\nBiscoe\n210\n4150\n\n\nGentoo\nBiscoe\n221\n6300\n\n\nGentoo\nBiscoe\n209\n4800\n\n\nGentoo\nBiscoe\n222\n5350\n\n\nGentoo\nBiscoe\n218\n5700\n\n\nGentoo\nBiscoe\n215\n5000\n\n\nGentoo\nBiscoe\n213\n4400\n\n\nGentoo\nBiscoe\n215\n5050\n\n\nGentoo\nBiscoe\n215\n5000\n\n\nGentoo\nBiscoe\n215\n5100\n\n\nGentoo\nBiscoe\n216\n4100\n\n\nGentoo\nBiscoe\n215\n5650\n\n\nGentoo\nBiscoe\n210\n4600\n\n\nGentoo\nBiscoe\n220\n5550\n\n\nGentoo\nBiscoe\n222\n5250\n\n\nGentoo\nBiscoe\n209\n4700\n\n\nGentoo\nBiscoe\n207\n5050\n\n\nGentoo\nBiscoe\n230\n6050\n\n\nGentoo\nBiscoe\n220\n5150\n\n\nGentoo\nBiscoe\n220\n5400\n\n\nGentoo\nBiscoe\n213\n4950\n\n\nGentoo\nBiscoe\n219\n5250\n\n\nGentoo\nBiscoe\n208\n4350\n\n\nGentoo\nBiscoe\n208\n5350\n\n\nGentoo\nBiscoe\n208\n3950\n\n\nGentoo\nBiscoe\n225\n5700\n\n\nGentoo\nBiscoe\n210\n4300\n\n\nGentoo\nBiscoe\n216\n4750\n\n\nGentoo\nBiscoe\n222\n5550\n\n\nGentoo\nBiscoe\n217\n4900\n\n\nGentoo\nBiscoe\n210\n4200\n\n\nGentoo\nBiscoe\n225\n5400\n\n\nGentoo\nBiscoe\n213\n5100\n\n\nGentoo\nBiscoe\n215\n5300\n\n\nGentoo\nBiscoe\n210\n4850\n\n\nGentoo\nBiscoe\n220\n5300\n\n\nGentoo\nBiscoe\n210\n4400\n\n\nGentoo\nBiscoe\n225\n5000\n\n\nGentoo\nBiscoe\n217\n4900\n\n\nGentoo\nBiscoe\n220\n5050\n\n\nGentoo\nBiscoe\n208\n4300\n\n\nGentoo\nBiscoe\n220\n5000\n\n\nGentoo\nBiscoe\n208\n4450\n\n\nGentoo\nBiscoe\n224\n5550\n\n\nGentoo\nBiscoe\n208\n4200\n\n\nGentoo\nBiscoe\n221\n5300\n\n\nGentoo\nBiscoe\n214\n4400\n\n\nGentoo\nBiscoe\n231\n5650\n\n\nGentoo\nBiscoe\n219\n4700\n\n\nGentoo\nBiscoe\n230\n5700\n\n\nGentoo\nBiscoe\n214\n4650\n\n\nGentoo\nBiscoe\n229\n5800\n\n\nGentoo\nBiscoe\n220\n4700\n\n\nGentoo\nBiscoe\n223\n5550\n\n\nGentoo\nBiscoe\n216\n4750\n\n\nGentoo\nBiscoe\n221\n5000\n\n\nGentoo\nBiscoe\n221\n5100\n\n\nGentoo\nBiscoe\n217\n5200\n\n\nGentoo\nBiscoe\n216\n4700\n\n\nGentoo\nBiscoe\n230\n5800\n\n\nGentoo\nBiscoe\n209\n4600\n\n\nGentoo\nBiscoe\n220\n6000\n\n\nGentoo\nBiscoe\n215\n4750\n\n\nGentoo\nBiscoe\n223\n5950\n\n\nGentoo\nBiscoe\n212\n4625\n\n\nGentoo\nBiscoe\n221\n5450\n\n\nGentoo\nBiscoe\n212\n4725\n\n\nGentoo\nBiscoe\n224\n5350\n\n\nGentoo\nBiscoe\n212\n4750\n\n\nGentoo\nBiscoe\n228\n5600\n\n\nGentoo\nBiscoe\n218\n4600\n\n\nGentoo\nBiscoe\n218\n5300\n\n\nGentoo\nBiscoe\n212\n4875\n\n\nGentoo\nBiscoe\n230\n5550\n\n\nGentoo\nBiscoe\n218\n4950\n\n\nGentoo\nBiscoe\n228\n5400\n\n\nGentoo\nBiscoe\n212\n4750\n\n\nGentoo\nBiscoe\n224\n5650\n\n\nGentoo\nBiscoe\n214\n4850\n\n\nGentoo\nBiscoe\n226\n5200\n\n\nGentoo\nBiscoe\n216\n4925\n\n\nGentoo\nBiscoe\n222\n4875\n\n\nGentoo\nBiscoe\n203\n4625\n\n\nGentoo\nBiscoe\n225\n5250\n\n\nGentoo\nBiscoe\n219\n4850\n\n\nGentoo\nBiscoe\n228\n5600\n\n\nGentoo\nBiscoe\n215\n4975\n\n\nGentoo\nBiscoe\n228\n5500\n\n\nGentoo\nBiscoe\n216\n4725\n\n\nGentoo\nBiscoe\n215\n5500\n\n\nGentoo\nBiscoe\n210\n4700\n\n\nGentoo\nBiscoe\n219\n5500\n\n\nGentoo\nBiscoe\n208\n4575\n\n\nGentoo\nBiscoe\n209\n5500\n\n\nGentoo\nBiscoe\n216\n5000\n\n\nGentoo\nBiscoe\n229\n5950\n\n\nGentoo\nBiscoe\n213\n4650\n\n\nGentoo\nBiscoe\n230\n5500\n\n\nGentoo\nBiscoe\n217\n4375\n\n\nGentoo\nBiscoe\n230\n5850\n\n\nGentoo\nBiscoe\n217\n4875\n\n\nGentoo\nBiscoe\n222\n6000\n\n\nGentoo\nBiscoe\n214\n4925\n\n\nGentoo\nBiscoe\nNA\nNA\n\n\nGentoo\nBiscoe\n215\n4850\n\n\nGentoo\nBiscoe\n222\n5750\n\n\nGentoo\nBiscoe\n212\n5200\n\n\nGentoo\nBiscoe\n213\n5400\n\n\nChinstrap\nDream\n192\n3500\n\n\nChinstrap\nDream\n196\n3900\n\n\nChinstrap\nDream\n193\n3650\n\n\nChinstrap\nDream\n188\n3525\n\n\nChinstrap\nDream\n197\n3725\n\n\nChinstrap\nDream\n198\n3950\n\n\nChinstrap\nDream\n178\n3250\n\n\nChinstrap\nDream\n197\n3750\n\n\nChinstrap\nDream\n195\n4150\n\n\nChinstrap\nDream\n198\n3700\n\n\nChinstrap\nDream\n193\n3800\n\n\nChinstrap\nDream\n194\n3775\n\n\nChinstrap\nDream\n185\n3700\n\n\nChinstrap\nDream\n201\n4050\n\n\nChinstrap\nDream\n190\n3575\n\n\nChinstrap\nDream\n201\n4050\n\n\nChinstrap\nDream\n197\n3300\n\n\nChinstrap\nDream\n181\n3700\n\n\nChinstrap\nDream\n190\n3450\n\n\nChinstrap\nDream\n195\n4400\n\n\nChinstrap\nDream\n181\n3600\n\n\nChinstrap\nDream\n191\n3400\n\n\nChinstrap\nDream\n187\n2900\n\n\nChinstrap\nDream\n193\n3800\n\n\nChinstrap\nDream\n195\n3300\n\n\nChinstrap\nDream\n197\n4150\n\n\nChinstrap\nDream\n200\n3400\n\n\nChinstrap\nDream\n200\n3800\n\n\nChinstrap\nDream\n191\n3700\n\n\nChinstrap\nDream\n205\n4550\n\n\nChinstrap\nDream\n187\n3200\n\n\nChinstrap\nDream\n201\n4300\n\n\nChinstrap\nDream\n187\n3350\n\n\nChinstrap\nDream\n203\n4100\n\n\nChinstrap\nDream\n195\n3600\n\n\nChinstrap\nDream\n199\n3900\n\n\nChinstrap\nDream\n195\n3850\n\n\nChinstrap\nDream\n210\n4800\n\n\nChinstrap\nDream\n192\n2700\n\n\nChinstrap\nDream\n205\n4500\n\n\nChinstrap\nDream\n210\n3950\n\n\nChinstrap\nDream\n187\n3650\n\n\nChinstrap\nDream\n196\n3550\n\n\nChinstrap\nDream\n196\n3500\n\n\nChinstrap\nDream\n196\n3675\n\n\nChinstrap\nDream\n201\n4450\n\n\nChinstrap\nDream\n190\n3400\n\n\nChinstrap\nDream\n212\n4300\n\n\nChinstrap\nDream\n187\n3250\n\n\nChinstrap\nDream\n198\n3675\n\n\nChinstrap\nDream\n199\n3325\n\n\nChinstrap\nDream\n201\n3950\n\n\nChinstrap\nDream\n193\n3600\n\n\nChinstrap\nDream\n203\n4050\n\n\nChinstrap\nDream\n187\n3350\n\n\nChinstrap\nDream\n197\n3450\n\n\nChinstrap\nDream\n191\n3250\n\n\nChinstrap\nDream\n203\n4050\n\n\nChinstrap\nDream\n202\n3800\n\n\nChinstrap\nDream\n194\n3525\n\n\nChinstrap\nDream\n206\n3950\n\n\nChinstrap\nDream\n189\n3650\n\n\nChinstrap\nDream\n195\n3650\n\n\nChinstrap\nDream\n207\n4000\n\n\nChinstrap\nDream\n202\n3400\n\n\nChinstrap\nDream\n193\n3775\n\n\nChinstrap\nDream\n210\n4100\n\n\nChinstrap\nDream\n198\n3775"
   },
   {
-    "objectID": "week2/index.html#step-2-qualitative-data-analysis-univariate-analysis",
-    "href": "week2/index.html#step-2-qualitative-data-analysis-univariate-analysis",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "Step 2: Qualitative Data Analysis: Univariate Analysis",
-    "text": "Step 2: Qualitative Data Analysis: Univariate Analysis"
-  },
-  {
     "objectID": "week2/index.html#pie-chart",
     "href": "week2/index.html#pie-chart",
     "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
     "section": "Pie chart",
     "text": "Pie chart"
-  },
-  {
-    "objectID": "week2/index.html#which-is-the-best",
-    "href": "week2/index.html#which-is-the-best",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "Which is the best?",
-    "text": "Which is the best?\n\n\nI would like to have text here\nSentence becomes longer, it should automatically stay in their column\n\nand here\nMore text"
   },
   {
     "objectID": "week2/index.html#histogram",
@@ -138,13 +40,6 @@
     "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
     "section": "Interpretations",
     "text": "Interpretations\n\n\n\n\n\nr_value\ninterpretation\n\n\n\n\nr = 1\nPerfect positive linear correlation\n\n\n1 &gt; r ≥ 0.8\nStrong positive linear correlation\n\n\n0.8 &gt; r ≥ 0.4\nModerate positive linear correlation\n\n\n0.4 &gt; r &gt; 0\nWeak positive linear correlation\n\n\nr = 0\nNo correlation\n\n\n0 &gt; r ≥ -0.4\nWeak negative linear correlation\n\n\n-0.4 &gt; r ≥ -0.8\nModerate negative linear correlation\n\n\n-0.8 &gt; r &gt; -1\nStrong negative linear correlation\n\n\nr = -1\nPerfect negative linear correlation"
-  },
-  {
-    "objectID": "week2/index.html#ai-as-a-code-assistant.",
-    "href": "week2/index.html#ai-as-a-code-assistant.",
-    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
-    "section": "AI as a code assistant.",
-    "text": "AI as a code assistant.\nUse ggplot2 to create a scatter plot of flipper_length_mm and body_mass_g in the dataset penguins. Write the R code."
   },
   {
     "objectID": "week2/index.html#ai-as-a-code-assistant",
@@ -208,5 +103,89 @@
     "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
     "section": "",
     "text": "ggplot(data=penguins, aes(x=flipper_length_mm, y=body_mass_g, col=species)) + geom_smooth(method=\"lm\", se=FALSE) + geom_point()"
+  },
+  {
+    "objectID": "week2/index.html#section-18",
+    "href": "week2/index.html#section-18",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "",
+    "text": "ggplot(data=penguins, aes(x=flipper_length_mm, y=body_mass_g, col=species)) + geom_smooth(method=\"lm\", se=FALSE) + geom_point(size=3)"
+  },
+  {
+    "objectID": "slides.html",
+    "href": "slides.html",
+    "title": "Lecture Slides",
+    "section": "",
+    "text": "Slides 1\nReading: Chapter 1"
+  },
+  {
+    "objectID": "slides.html#july-2025",
+    "href": "slides.html#july-2025",
+    "title": "Lecture Slides",
+    "section": "",
+    "text": "Slides 1\nReading: Chapter 1"
+  },
+  {
+    "objectID": "slides.html#july-2025-1",
+    "href": "slides.html#july-2025-1",
+    "title": "Lecture Slides",
+    "section": "31 July 2025",
+    "text": "31 July 2025\nSlides 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Pre-lecture Work: Tasks to Complete Before the Lecture",
+    "section": "",
+    "text": "R is an open-source software that we use for statistical computing, data analysis, and visualization. On Thursday, 17 July 2025, we will explore key statistical, data analysis, and data science skills that resource managers should be aware of.\nPlease complete the following tasks before attending the lecture:"
+  },
+  {
+    "objectID": "about.html#need-help",
+    "href": "about.html#need-help",
+    "title": "Pre-lecture Work: Tasks to Complete Before the Lecture",
+    "section": "Need help:",
+    "text": "Need help:\nIf you encounter any installation issues, feel free to contact:\n📧 ttalagala@sjp.ac.lk"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "EMF 115 1.0 Key Skills for Resource Managers (Statistics, Data Science and Statistical Programming)",
+    "section": "",
+    "text": "This session, conducted under the unit EMF 115 1.0, is designed to equip future resource managers with essential skills in statistics, data science, and statistical programming.\nThrough hands-on learning with R, students will develop the ability to collect, manage, analyze, and visualize data relevant to environmental and resource management contexts.\nStudents are introduced to practical data science workflows, including data wrangling, exploratory data analysis, visualization, and introduction to statistics and machine learning models, all contextualized within environmental and forestry applications."
+  },
+  {
+    "objectID": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.",
+    "href": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests.",
+    "text": "In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests."
+  },
+  {
+    "objectID": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.-1",
+    "href": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.-1",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests.",
+    "text": "In 2022, a government in a country introduced a forest conservation tax. The main purpose of the tax is to charge for activities like logging, land clearing, and timber exports to discourage unsustainable use of forests.\nTo assess the effectiveness of the Forest Conservation Tax introduced in 2022, the government consults two managers to understand its impact."
+  },
+  {
+    "objectID": "week1/index.html#primary-data-vs-secondary-data",
+    "href": "week1/index.html#primary-data-vs-secondary-data",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "Primary Data vs Secondary Data",
+    "text": "Primary Data vs Secondary Data\n\nPrimary Data: Data collected directly by the researcher for a specific purpose or study.\nSecondary Data: Data that has already been collected by someone else and made readily available for researchers to use"
+  },
+  {
+    "objectID": "week1/index.html#primary-data-collection-methods",
+    "href": "week1/index.html#primary-data-collection-methods",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "Primary Data Collection Methods",
+    "text": "Primary Data Collection Methods\n\nObservational studies\nQuestionnaire Survey\n\nMethod: Asking a set of questions\nInstruments:\n\nPrinted or digital questionnaires\nGoogle Forms / SurveyMonkey\nMobile apps or data collection tools (e.g., KoboToolbox)\n\nYour turn: Find other primary data collection methods."
+  },
+  {
+    "objectID": "week1/index.html#your-turn",
+    "href": "week1/index.html#your-turn",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "Your turn",
+    "text": "Your turn\nIdentify secondary data sources relevant to forestry and environmental sciences.\n\nOpen source data repositories:\nourworldindata\nPaid data repositories"
   }
 ]
