@@ -188,3 +188,153 @@ ggplot(penguins, aes(x = flipper_length_mm)) + geom_histogram(col="white")
 ```{r}
 ggplot(penguins, aes(x = flipper_length_mm, y=body_mass_g)) + geom_point()
 ```
+
+## 
+
+```{r, fig.height=10, fig.width=10}
+# Load required libraries
+library(ggplot2)
+library(dplyr)
+
+# Function to generate data with a specified correlation
+generate_data <- function(r, n = 100) {
+  set.seed(0)
+  x <- runif(n)
+  if (r == 1) {
+    y <- x
+  } else if (r == -1) {
+    y <- -x
+  } else if (r == 0) {
+    y <- runif(n)
+  } else {
+    y <- r * x + sqrt(1 - r^2) * runif(n)
+  }
+  data.frame(x = x, y = y, r = as.factor(r))
+}
+
+# List of correlation coefficients to plot
+correlation_coefficients <- c(1, -1, 0, 0.8, -0.8, 0.5, -0.5, 0.2, -0.2)
+
+# Generate data for each correlation coefficient
+data <- bind_rows(lapply(correlation_coefficients, generate_data))
+
+# Plot using ggplot2
+plot <- ggplot(data, aes(x = x, y = y)) +
+  geom_point() +
+  facet_wrap(~ r, scales = 'free') +
+  labs(title = 'Scatter plots with different Pearson correlation coefficients',
+       x = 'X', y = 'Y') +
+  theme(aspect.ratio = 1)
+
+# Display the plot
+print(plot)
+
+```
+
+## Interpretations
+
+```{r}
+correlation_data <- data.frame(
+  r_value = c("r = 1", "1 > r ≥ 0.8", "0.8 > r ≥ 0.4", "0.4 > r > 0", "r = 0", 
+              "0 > r ≥ -0.4", "-0.4 > r ≥ -0.8", "-0.8 > r > -1", "r = -1"),
+  interpretation = c("Perfect positive linear correlation", 
+                     "Strong positive linear correlation", 
+                     "Moderate positive linear correlation", 
+                     "Weak positive linear correlation", 
+                     "No correlation", 
+                     "Weak negative linear correlation", 
+                     "Moderate negative linear correlation", 
+                     "Strong negative linear correlation", 
+                     "Perfect negative linear correlation")
+)
+
+correlation_data |> knitr::kable()
+```
+
+
+##
+
+![](images.png)
+
+##
+
+![](DataSaurus.gif)
+
+
+
+# Step 6: Quantitative vs Qualitative
+
+##
+
+```{r}
+ggplot(penguins, aes(x = flipper_length_mm, fill=species)) + geom_histogram(col="white") + facet_wrap(vars(species), ncol=1)
+```
+
+##
+
+```{r}
+ggplot(penguins, aes(x = body_mass_g, fill=species)) + geom_histogram(col="white") + facet_wrap(vars(species), ncol=1)
+```
+
+# Step 7: Qualitative and Two Quantitative
+
+##
+
+```{r}
+ggplot(penguins, aes(x = flipper_length_mm, y=body_mass_g, col=species)) + geom_point()
+```
+
+# How to plot them? Use ggplot2 in R
+
+## AI as a code assistant
+
+Use ggplot2 to create a scatter plot of flipper_length_mm and body_mass_g in the dataset penguins. Write the R code.
+
+# Basic Idea
+
+##
+
+```{r, echo=TRUE}
+ggplot(data=penguins)
+```
+
+##
+
+```{r, echo=TRUE}
+ggplot(data=penguins, aes(x=flipper_length_mm, y=body_mass_g))
+```
+##
+
+```{r, echo=TRUE}
+ggplot(data=penguins, aes(x=flipper_length_mm, y=body_mass_g)) + geom_point()
+```
+
+##
+
+```{r, echo=TRUE}
+ggplot(data=penguins, aes(x=flipper_length_mm, y=body_mass_g)) + geom_smooth(se=FALSE)
+```
+
+##
+
+```{r, echo=TRUE}
+ggplot(data=penguins, aes(x=flipper_length_mm, y=body_mass_g)) + geom_smooth(se=FALSE) + geom_point()
+```
+
+##
+
+```{r, echo=TRUE}
+ggplot(data=penguins, aes(x=flipper_length_mm, y=body_mass_g)) + geom_smooth(method="lm", se=FALSE)
+```
+
+##
+
+```{r, echo=TRUE}
+ggplot(data=penguins, aes(x=flipper_length_mm, y=body_mass_g)) + geom_smooth(method="lm", se=FALSE) + geom_point()
+```
+
+##
+
+```{r, echo=TRUE}
+ggplot(data=penguins, aes(x=flipper_length_mm, y=body_mass_g, col=species)) + geom_smooth(method="lm", se=FALSE) + geom_point()
+```

@@ -131,5 +131,82 @@
     "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
     "section": "Scatterplot",
     "text": "Scatterplot"
+  },
+  {
+    "objectID": "week2/index.html#interpretations",
+    "href": "week2/index.html#interpretations",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "Interpretations",
+    "text": "Interpretations\n\n\n\n\n\nr_value\ninterpretation\n\n\n\n\nr = 1\nPerfect positive linear correlation\n\n\n1 &gt; r ≥ 0.8\nStrong positive linear correlation\n\n\n0.8 &gt; r ≥ 0.4\nModerate positive linear correlation\n\n\n0.4 &gt; r &gt; 0\nWeak positive linear correlation\n\n\nr = 0\nNo correlation\n\n\n0 &gt; r ≥ -0.4\nWeak negative linear correlation\n\n\n-0.4 &gt; r ≥ -0.8\nModerate negative linear correlation\n\n\n-0.8 &gt; r &gt; -1\nStrong negative linear correlation\n\n\nr = -1\nPerfect negative linear correlation"
+  },
+  {
+    "objectID": "week2/index.html#ai-as-a-code-assistant.",
+    "href": "week2/index.html#ai-as-a-code-assistant.",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "AI as a code assistant.",
+    "text": "AI as a code assistant.\nUse ggplot2 to create a scatter plot of flipper_length_mm and body_mass_g in the dataset penguins. Write the R code."
+  },
+  {
+    "objectID": "week2/index.html#ai-as-a-code-assistant",
+    "href": "week2/index.html#ai-as-a-code-assistant",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "AI as a code assistant",
+    "text": "AI as a code assistant\nUse ggplot2 to create a scatter plot of flipper_length_mm and body_mass_g in the dataset penguins. Write the R code."
+  },
+  {
+    "objectID": "week2/index.html#section-10",
+    "href": "week2/index.html#section-10",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "",
+    "text": "ggplot(data=penguins)"
+  },
+  {
+    "objectID": "week2/index.html#section-11",
+    "href": "week2/index.html#section-11",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "",
+    "text": "ggplot(data=penguins, aes(x=flipper_length_mm, y=body_mass_g))"
+  },
+  {
+    "objectID": "week2/index.html#section-12",
+    "href": "week2/index.html#section-12",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "",
+    "text": "ggplot(data=penguins, aes(x=flipper_length_mm, y=body_mass_g)) + geom_point()"
+  },
+  {
+    "objectID": "week2/index.html#section-13",
+    "href": "week2/index.html#section-13",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "",
+    "text": "ggplot(data=penguins, aes(x=flipper_length_mm, y=body_mass_g)) + geom_smooth(se=FALSE)"
+  },
+  {
+    "objectID": "week2/index.html#section-14",
+    "href": "week2/index.html#section-14",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "",
+    "text": "ggplot(data=penguins, aes(x=flipper_length_mm, y=body_mass_g)) + geom_smooth(se=FALSE) + geom_point()"
+  },
+  {
+    "objectID": "week2/index.html#section-15",
+    "href": "week2/index.html#section-15",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "",
+    "text": "ggplot(data=penguins, aes(x=flipper_length_mm, y=body_mass_g)) + geom_smooth(method=\"lm\", se=FALSE)"
+  },
+  {
+    "objectID": "week2/index.html#section-16",
+    "href": "week2/index.html#section-16",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "",
+    "text": "ggplot(data=penguins, aes(x=flipper_length_mm, y=body_mass_g)) + geom_smooth(method=\"lm\", se=FALSE) + geom_point()"
+  },
+  {
+    "objectID": "week2/index.html#section-17",
+    "href": "week2/index.html#section-17",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "",
+    "text": "ggplot(data=penguins, aes(x=flipper_length_mm, y=body_mass_g, col=species)) + geom_smooth(method=\"lm\", se=FALSE) + geom_point()"
   }
 ]
