@@ -31,28 +31,91 @@ format:
 
 ![](i3.png)
 
-##
+## 
 
 ![](i1.png)
 
-##  What is Machine learning?
+## What is Machine learning?
 
 "Machine learning is a subfield of artificial intelligence that gives computers the ability to learn without explicitly being programmed."
 
 Source: https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained
 
-##
+## 
 
 ![](https://blog.pwskills.com/wp-content/uploads/2024/09/Generative-AI-Vs-Machine-Learning.png)
 
-Source: [https://blog.pwskills.com/wp-content/uploads/2024/09/Generative-AI-Vs-Machine-Learning.png](https://blog.pwskills.com/wp-content/uploads/2024/09/Generative-AI-Vs-Machine-Learning.png)
+Source: <https://blog.pwskills.com/wp-content/uploads/2024/09/Generative-AI-Vs-Machine-Learning.png>
 
 ## Machine Learning Types
 
-- Supervised learning
+-   Supervised learning
 
-- Unsupervised learning
+-   Unsupervised learning
 
-- Semi-supervised learning
+-   Semi-supervised learning
 
-- Reinforcement learning
+-   Reinforcement learning
+
+------------------------------------------------------------------------
+
+## Closely mirror how humans learn
+
+1.  Supervised Learning: Learning with a Teacher
+
+2.  Unsupervised Learning: Self-Discovery
+
+3.  Semi-Supervised Learning: Learning with Limited Guidance
+
+4.  Reinforcement Learning: Learning from Experience
+
+A child learns dictation by practicing regularly.
+
+If the child writes all the words correctly, they get a star, praise, or a small gift (reward).
+
+If there are many mistakes, they don’t get the reward (penalty or no reward).
+Over time, the child learns which behaviors lead to rewards and tries to repeat them — just like in reinforcement learning.
+
+## Supervised learning
+  
+  **Definition:** The model learns from labeled data where both input (features) and output (target) are provided.
+
+**Example Application:**
+  
+  Customer Churn Prediction: Predict whether a customer will stop using a service based on past behavior (labeled as churn or not churn).
+
+Plant Species Identification (Mobile App): You give the model many images of plants labeled with their species. The app then learns to classify new images.
+
+## Unsupervised learning
+  
+  **Definition:** The model works with unlabeled data. It finds hidden patterns or groupings.
+
+**Example Applications:**
+  
+  Customer Segmentation: Group customers based on purchasing behavior without knowing the labels.
+
+Clustering Species: Group different flower images based on visual similarities, without knowing species names.
+
+## Semi-Supervised Learning
+  
+  **Definition:** Uses a small amount of labeled data with a large amount of unlabeled data. Helps when labeling is expensive or time consuming.
+
+**Example Applications:**
+  
+  Medical Diagnosis: A small set of labeled MRI scans with tumor labels is used along with many unlabeled ones.
+
+
+ 
+## Reinforcement learning
+  
+**Definition:** A model learns to make decisions by interacting with an environment and receiving rewards or penalties.
+
+**Example Applications:**
+  
+  Product Recommendation Engine: Learns which products to show based on whether users click or buy (reward).
+
+Robotic Farming: A drone learns optimal routes for spraying crops.
+
+Game AI: A system learns to play chess or control a drone.
+
+

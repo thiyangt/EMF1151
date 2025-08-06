@@ -28,6 +28,41 @@
     "text": "Machine Learning Types\n\nSupervised learning\nUnsupervised learning\nSemi-supervised learning\nReinforcement learning"
   },
   {
+    "objectID": "week3/index.html#closely-mirror-how-humans-learn",
+    "href": "week3/index.html#closely-mirror-how-humans-learn",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "Closely mirror how humans learn",
+    "text": "Closely mirror how humans learn\n\nSupervised Learning: Learning with a Teacher\nUnsupervised Learning: Self-Discovery\nSemi-Supervised Learning: Learning with Limited Guidance\nReinforcement Learning: Learning from Experience\n\nA child learns dictation by practicing regularly.\nIf the child writes all the words correctly, they get a star, praise, or a small gift (reward).\nIf there are many mistakes, they don’t get the reward (penalty or no reward). Over time, the child learns which behaviors lead to rewards and tries to repeat them — just like in reinforcement learning."
+  },
+  {
+    "objectID": "week3/index.html#supervised-learning",
+    "href": "week3/index.html#supervised-learning",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "Supervised learning",
+    "text": "Supervised learning\nDefinition: The model learns from labeled data where both input (features) and output (target) are provided.\nExample Application:\nCustomer Churn Prediction: Predict whether a customer will stop using a service based on past behavior (labeled as churn or not churn).\nPlant Species Identification (Mobile App): You give the model many images of plants labeled with their species. The app then learns to classify new images."
+  },
+  {
+    "objectID": "week3/index.html#unsupervised-learning",
+    "href": "week3/index.html#unsupervised-learning",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "Unsupervised learning",
+    "text": "Unsupervised learning\nDefinition: The model works with unlabeled data. It finds hidden patterns or groupings.\nExample Applications:\nCustomer Segmentation: Group customers based on purchasing behavior without knowing the labels.\nClustering Species: Group different flower images based on visual similarities, without knowing species names."
+  },
+  {
+    "objectID": "week3/index.html#semi-supervised-learning",
+    "href": "week3/index.html#semi-supervised-learning",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "Semi-Supervised Learning",
+    "text": "Semi-Supervised Learning\nDefinition: Uses a small amount of labeled data with a large amount of unlabeled data. Helps when labeling is expensive or time consuming.\nExample Applications:\nMedical Diagnosis: A small set of labeled MRI scans with tumor labels is used along with many unlabeled ones."
+  },
+  {
+    "objectID": "week3/index.html#reinforcement-learning",
+    "href": "week3/index.html#reinforcement-learning",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "Reinforcement learning",
+    "text": "Reinforcement learning\nDefinition: A model learns to make decisions by interacting with an environment and receiving rewards or penalties.\nExample Applications:\nProduct Recommendation Engine: Learns which products to show based on whether users click or buy (reward).\nRobotic Farming: A drone learns optimal routes for spraying crops.\nGame AI: A system learns to play chess or control a drone."
+  },
+  {
     "objectID": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.",
     "href": "week1/index.html#in-2022-a-government-in-a-country-introduced-a-forest-conservation-tax.-the-main-purpose-of-the-tax-is-to-charge-for-activities-like-logging-land-clearing-and-timber-exports-to-discourage-unsustainable-use-of-forests.",
     "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
