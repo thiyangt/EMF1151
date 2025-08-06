@@ -23,14 +23,36 @@ format:
 
 ## Group the objects
 
-![](i2.png)
----
-
-##
-
-![](i3.png)
----
+## ![](i2.png)
 
 ## 
 
+## 
+
+![](i3.png)
+
+##
+
 ![](i1.png)
+
+##  What is Machine learning?
+
+"Machine learning is a subfield of artificial intelligence that gives computers the ability to learn without explicitly being programmed."
+
+Source: https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained
+
+##
+
+![](https://blog.pwskills.com/wp-content/uploads/2024/09/Generative-AI-Vs-Machine-Learning.png)
+
+Source: [https://blog.pwskills.com/wp-content/uploads/2024/09/Generative-AI-Vs-Machine-Learning.png](https://blog.pwskills.com/wp-content/uploads/2024/09/Generative-AI-Vs-Machine-Learning.png)
+
+## Machine Learning Types
+
+- Supervised learning
+
+- Unsupervised learning
+
+- Semi-supervised learning
+
+- Reinforcement learning
