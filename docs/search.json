@@ -98,6 +98,20 @@
     "text": "Your turn\nIdentify secondary data sources relevant to forestry and environmental sciences.\n\nOpen source data repositories:\nourworldindata\nPaid data repositories"
   },
   {
+    "objectID": "week1/index.html#your-turn-1",
+    "href": "week1/index.html#your-turn-1",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "Your turn",
+    "text": "Your turn\nSri Lanka’s Ministry of Agriculture recently conducted a census of crop-damaging animals. The counts of toque macaques, monkeys, giant squirrels, and peacocks were recorded. The next step is to enter the collected data into an Excel spreadsheet for effective analysis.\nSuppose you are responsible for creating an Excel sheet for data entry and establishing clear guidelines for data entry operators.\nPrepare a concise guideline document that includes the following:\n\nA rough sketch of the Excel sheet layout\nGuidelines on:\n\nHandling missing observations\nDealing with unreadable handwritten responses from the census forms.\nAny other important rules to ensure data accuracy and consistency."
+  },
+  {
+    "objectID": "week1/index.html#florence-nightingales-rose-diagram",
+    "href": "week1/index.html#florence-nightingales-rose-diagram",
+    "title": "Key Skills in  Statistics,  Data Science,  and Statistical Programming  for Resource Managers",
+    "section": "Florence Nightingale’s Rose Diagram",
+    "text": "Florence Nightingale’s Rose Diagram"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "EMF 115 1.0 Key Skills for Resource Managers (Statistics, Data Science and Statistical Programming)",
